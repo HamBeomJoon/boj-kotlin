@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/GitHub/boj-kotlin/boj" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -28,9 +28,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin._9610_사분면Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj",
     "onboarding.tips.debug.path": "/Users/hambeomjoon/IdeaProjects/boj/src/Main.kt",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
