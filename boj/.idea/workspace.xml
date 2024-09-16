@@ -37,21 +37,24 @@
   "keyToString": {
     "Kotlin.AsdasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin._10870_피보나치수5Kt.executor": "Run",
     "Kotlin._11653_소인수분해Kt.executor": "Run",
     "Kotlin._1934_최소공배수Kt.executor": "Run",
     "Kotlin._2675_문자열반복Kt.executor": "Run",
+    "Kotlin._7567_그릇Kt.executor": "Run",
     "Kotlin._8958_OX퀴즈Kt.executor": "Run",
     "Kotlin._9610_사분면Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/basic",
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/bronze",
     "onboarding.tips.debug.path": "/Users/hambeomjoon/IdeaProjects/boj/src/Main.kt",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.언어 디폴트 값"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/bronze" />
       <recent name="$PROJECT_DIR$/src/basic" />
     </key>
   </component>
