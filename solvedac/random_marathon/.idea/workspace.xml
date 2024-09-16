@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week15/10471_공간을만들어봅시다.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week15/24883_자동완성.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week15/_24883_자동완성Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week15/_24883_자동완성Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week15/10471_공간을만들어봅시다.kt" beforeDir="false" afterPath="$PROJECT_DIR$/week15/10471_공간을만들어봅시다.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.AaaKt.executor": "Run",
+    "Kotlin._10471_공간을만들어봅시다Kt.executor": "Run",
     "Kotlin._24883_자동완성Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
