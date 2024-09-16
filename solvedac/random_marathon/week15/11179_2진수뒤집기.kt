@@ -1,0 +1,1 @@
+package week15import java.io.BufferedReaderimport java.io.InputStreamReaderfun main() {    val br = BufferedReader(InputStreamReader(System.`in`))    val N = Integer.toBinaryString(br.readLine().toInt())    val target = N.reversed()    println(Integer.parseInt(target, 2))}
