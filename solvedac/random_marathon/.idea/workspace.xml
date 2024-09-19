@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week15/24174_힙정렬2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week15/31780_불사조.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week16/14581_팬들에게둘러싸인홍준.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week16/2154_수이어쓰기3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -39,6 +40,8 @@
     "Kotlin.AaaKt.executor": "Run",
     "Kotlin._10471_공간을만들어봅시다Kt.executor": "Run",
     "Kotlin._11179_2진수뒤집기Kt.executor": "Run",
+    "Kotlin._14581_팬들에게둘러싸인홍준Kt.executor": "Run",
+    "Kotlin._2154_수이어쓰기3Kt.executor": "Run",
     "Kotlin._24174_힙정렬2Kt.executor": "Run",
     "Kotlin._24883_자동완성Kt.executor": "Run",
     "Kotlin._28682_재우야임관하자Kt.executor": "Run",
@@ -46,12 +49,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week15",
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week16",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week16" />
       <recent name="$PROJECT_DIR$/week15" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
