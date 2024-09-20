@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="">
+    <list default="true" id="d782402e-9116-45b3-b067-c376b017259b" name="변경" comment="">
       <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/discord.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/kotlinc.xml" afterDir="false" />
@@ -12,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/aa.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +20,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -30,14 +27,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2l8VsVez2AchCyU6nxx5ODr7sqk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2mHIVG1W2sVTSrWUpwIfvO6VsS1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,62 +38,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.AaKt.executor": "Run",
-    "Kotlin.AsdasKt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "Kotlin._10870_피보나치수5Kt.executor": "Run",
-    "Kotlin._11653_소인수분해Kt.executor": "Run",
-    "Kotlin._1934_최소공배수Kt.executor": "Run",
-    "Kotlin._2577_숫자의개수Kt.executor": "Run",
-    "Kotlin._2675_문자열반복Kt.executor": "Run",
-    "Kotlin._3273_두수의합Kt.executor": "Run",
-    "Kotlin._7567_그릇Kt.executor": "Run",
-    "Kotlin._8958_OX퀴즈Kt.executor": "Run",
-    "Kotlin._9610_사분면Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/0x03배열",
-    "onboarding.tips.debug.path": "/Users/hambeomjoon/IdeaProjects/boj/src/Main.kt",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.언어 디폴트 값"
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/Baaaaarking독 강의"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/0x03배열" />
-      <recent name="$PROJECT_DIR$/src/bronze" />
-      <recent name="$PROJECT_DIR$/src/basic" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Kotlin._3273_두수의합Kt">
-    <configuration name="_2577_숫자의개수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x03배열._2577_숫자의개수Kt" />
-      <module name="boj" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_3273_두수의합Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x03배열._3273_두수의합Kt" />
-      <module name="boj" />
+  <component name="RunManager">
+    <configuration name="AaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AaKt" />
+      <module name="Baaaaarking독 강의" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._3273_두수의합Kt" />
-        <item itemvalue="Kotlin._2577_숫자의개수Kt" />
+        <item itemvalue="Kotlin.AaKt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="" />
-      <created>1724561902035</created>
+      <changelist id="d782402e-9116-45b3-b067-c376b017259b" name="변경" comment="" />
+      <created>1726727096581</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1724561902035</updated>
+      <updated>1726727096581</updated>
     </task>
     <servers />
   </component>
