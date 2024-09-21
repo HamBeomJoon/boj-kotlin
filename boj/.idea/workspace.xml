@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Baaaaarking독 강의/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +39,9 @@
     "Kotlin.AsdasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin._10870_피보나치수5Kt.executor": "Run",
+    "Kotlin._11328_strfryKt.executor": "Run",
     "Kotlin._11653_소인수분해Kt.executor": "Run",
+    "Kotlin._13300_방배정Kt.executor": "Run",
     "Kotlin._1934_최소공배수Kt.executor": "Run",
     "Kotlin._2577_숫자의개수Kt.executor": "Run",
     "Kotlin._2675_문자열반복Kt.executor": "Run",
@@ -71,7 +64,21 @@
       <recent name="$PROJECT_DIR$/src/basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._3273_두수의합Kt">
+  <component name="RunManager" selected="Kotlin._11328_strfryKt">
+    <configuration name="_11328_strfryKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x03배열._11328_strfryKt" />
+      <module name="boj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_13300_방배정Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x03배열._13300_방배정Kt" />
+      <module name="boj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_2577_숫자의개수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="0x03배열._2577_숫자의개수Kt" />
       <module name="boj" />
@@ -88,6 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._11328_strfryKt" />
+        <item itemvalue="Kotlin._13300_방배정Kt" />
         <item itemvalue="Kotlin._3273_두수의합Kt" />
         <item itemvalue="Kotlin._2577_숫자의개수Kt" />
       </list>
