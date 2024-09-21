@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="" />
+    <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../solvedac/random_marathon/week16/28239_배고파.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week16/_2154_수이어쓰기3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week16/_2154_수이어쓰기3Kt.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +44,13 @@
     "Kotlin.AaKt.executor": "Run",
     "Kotlin.AsdasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin._10808_알파벳개수Kt.executor": "Run",
     "Kotlin._10870_피보나치수5Kt.executor": "Run",
     "Kotlin._11328_strfryKt.executor": "Run",
     "Kotlin._11653_소인수분해Kt.executor": "Run",
     "Kotlin._13300_방배정Kt.executor": "Run",
+    "Kotlin._1406_에디터Kt.executor": "Run",
+    "Kotlin._1919_애너그램만들기Kt.executor": "Run",
     "Kotlin._1934_최소공배수Kt.executor": "Run",
     "Kotlin._2577_숫자의개수Kt.executor": "Run",
     "Kotlin._2675_문자열반복Kt.executor": "Run",
@@ -54,7 +63,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/0x03배열",
     "onboarding.tips.debug.path": "/Users/hambeomjoon/IdeaProjects/boj/src/Main.kt",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.언어 디폴트 값"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -64,7 +73,14 @@
       <recent name="$PROJECT_DIR$/src/basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._11328_strfryKt">
+  <component name="RunManager" selected="Kotlin._1406_에디터Kt">
+    <configuration name="_10808_알파벳개수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x03배열._10808_알파벳개수Kt" />
+      <module name="boj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_11328_strfryKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="0x03배열._11328_strfryKt" />
       <module name="boj" />
@@ -79,15 +95,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2577_숫자의개수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x03배열._2577_숫자의개수Kt" />
+    <configuration name="_1406_에디터Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x04연결리스트._1406_에디터Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3273_두수의합Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x03배열._3273_두수의합Kt" />
+    <configuration name="_1919_애너그램만들기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x03배열._1919_애너그램만들기Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,10 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1406_에디터Kt" />
+        <item itemvalue="Kotlin._10808_알파벳개수Kt" />
+        <item itemvalue="Kotlin._1919_애너그램만들기Kt" />
         <item itemvalue="Kotlin._11328_strfryKt" />
         <item itemvalue="Kotlin._13300_방배정Kt" />
-        <item itemvalue="Kotlin._3273_두수의합Kt" />
-        <item itemvalue="Kotlin._2577_숫자의개수Kt" />
       </list>
     </recent_temporary>
   </component>
