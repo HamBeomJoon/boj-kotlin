@@ -38,10 +38,12 @@
     "Kotlin.AaKt.executor": "Run",
     "Kotlin.AsdasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin._1021_회전하는큐Kt.executor": "Run",
     "Kotlin._10808_알파벳개수Kt.executor": "Run",
     "Kotlin._10828_스택Kt.executor": "Run",
     "Kotlin._10845_큐Kt (1).executor": "Run",
     "Kotlin._10845_큐Kt.executor": "Run",
+    "Kotlin._10866_덱Kt.executor": "Run",
     "Kotlin._10870_피보나치수5Kt.executor": "Run",
     "Kotlin._11328_strfryKt.executor": "Run",
     "Kotlin._1158_요세푸스문제Kt.executor": "Run",
@@ -62,23 +64,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/0x06큐",
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/0x07덱",
     "onboarding.tips.debug.path": "/Users/hambeomjoon/IdeaProjects/boj/src/Main.kt",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/0x07덱" />
       <recent name="$PROJECT_DIR$/src/0x06큐" />
       <recent name="$PROJECT_DIR$/src/0x05스택" />
       <recent name="$PROJECT_DIR$/src/0x04연결리스트" />
       <recent name="$PROJECT_DIR$/src/0x03배열" />
-      <recent name="$PROJECT_DIR$/src/bronze" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._2164_카드2Kt">
-    <configuration name="_10828_스택Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x05스택._10828_스택Kt" />
+  <component name="RunManager" selected="Kotlin._1021_회전하는큐Kt">
+    <configuration name="_1021_회전하는큐Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x07덱._1021_회전하는큐Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10845_큐Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x05스택._10845_큐Kt" />
+    <configuration name="_10866_덱Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x07덱._10866_덱Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1021_회전하는큐Kt" />
+        <item itemvalue="Kotlin._10866_덱Kt" />
         <item itemvalue="Kotlin._2164_카드2Kt" />
         <item itemvalue="Kotlin._18258_큐2Kt" />
         <item itemvalue="Kotlin._10845_큐Kt (1)" />
-        <item itemvalue="Kotlin._10845_큐Kt" />
-        <item itemvalue="Kotlin._10828_스택Kt" />
       </list>
     </recent_temporary>
   </component>
