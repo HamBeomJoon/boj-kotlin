@@ -39,6 +39,7 @@
     "Kotlin.AsdasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin._10808_알파벳개수Kt.executor": "Run",
+    "Kotlin._10828_스택Kt.executor": "Run",
     "Kotlin._10870_피보나치수5Kt.executor": "Run",
     "Kotlin._11328_strfryKt.executor": "Run",
     "Kotlin._1158_요세푸스문제Kt.executor": "Run",
@@ -57,22 +58,30 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/0x04연결리스트",
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/0x05스택",
     "onboarding.tips.debug.path": "/Users/hambeomjoon/IdeaProjects/boj/src/Main.kt",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/0x05스택" />
       <recent name="$PROJECT_DIR$/src/0x04연결리스트" />
       <recent name="$PROJECT_DIR$/src/0x03배열" />
       <recent name="$PROJECT_DIR$/src/bronze" />
       <recent name="$PROJECT_DIR$/src/basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1158_요세푸스문제Kt">
+  <component name="RunManager" selected="Kotlin._10828_스택Kt">
     <configuration name="_10808_알파벳개수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="0x03배열._10808_알파벳개수Kt" />
+      <module name="boj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_10828_스택Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x05스택._10828_스택Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,13 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1919_애너그램만들기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x03배열._1919_애너그램만들기Kt" />
-      <module name="boj" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_5397_키로거Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="0x04연결리스트._5397_키로거Kt" />
       <module name="boj" />
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._10828_스택Kt" />
         <item itemvalue="Kotlin._1158_요세푸스문제Kt" />
         <item itemvalue="Kotlin._5397_키로거Kt" />
         <item itemvalue="Kotlin._1406_에디터Kt" />
         <item itemvalue="Kotlin._10808_알파벳개수Kt" />
-        <item itemvalue="Kotlin._1919_애너그램만들기Kt" />
       </list>
     </recent_temporary>
   </component>
