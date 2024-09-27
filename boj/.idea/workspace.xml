@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="" />
+    <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../solvedac/random_marathon/week17/32025_체육은수학과목입니다.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +42,7 @@
     "Kotlin.AsdasKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin._1021_회전하는큐Kt.executor": "Run",
+    "Kotlin._10799_쇠막대기Kt.executor": "Run",
     "Kotlin._10808_알파벳개수Kt.executor": "Run",
     "Kotlin._10828_스택Kt.executor": "Run",
     "Kotlin._10845_큐Kt (1).executor": "Run",
@@ -48,67 +52,74 @@
     "Kotlin._11328_strfryKt.executor": "Run",
     "Kotlin._1158_요세푸스문제Kt.executor": "Run",
     "Kotlin._11653_소인수분해Kt.executor": "Run",
+    "Kotlin._1260_DFS와BFSKt.executor": "Run",
     "Kotlin._13300_방배정Kt.executor": "Run",
     "Kotlin._1406_에디터Kt.executor": "Run",
     "Kotlin._18258_큐2Kt.executor": "Run",
     "Kotlin._1919_애너그램만들기Kt.executor": "Run",
+    "Kotlin._1926_그림Kt.executor": "Run",
     "Kotlin._1934_최소공배수Kt.executor": "Run",
     "Kotlin._2164_카드2Kt.executor": "Run",
+    "Kotlin._2178_미로탐색Kt.executor": "Run",
     "Kotlin._2577_숫자의개수Kt.executor": "Run",
     "Kotlin._2675_문자열반복Kt.executor": "Run",
     "Kotlin._3273_두수의합Kt.executor": "Run",
+    "Kotlin._4179_불Kt.executor": "Run",
+    "Kotlin._4949_균형잡힌세상Kt.executor": "Run",
     "Kotlin._5397_키로거Kt.executor": "Run",
+    "Kotlin._5430_ACKt.executor": "Run",
     "Kotlin._7567_그릇Kt.executor": "Run",
+    "Kotlin._7576_토마토Kt.executor": "Run",
     "Kotlin._8958_OX퀴즈Kt.executor": "Run",
     "Kotlin._9610_사분면Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/0x07덱",
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/0x09BFS",
     "onboarding.tips.debug.path": "/Users/hambeomjoon/IdeaProjects/boj/src/Main.kt",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/0x09BFS" />
+      <recent name="$PROJECT_DIR$/src/0x08스택활용" />
       <recent name="$PROJECT_DIR$/src/0x07덱" />
       <recent name="$PROJECT_DIR$/src/0x06큐" />
       <recent name="$PROJECT_DIR$/src/0x05스택" />
-      <recent name="$PROJECT_DIR$/src/0x04연결리스트" />
-      <recent name="$PROJECT_DIR$/src/0x03배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._1021_회전하는큐Kt">
-    <configuration name="_1021_회전하는큐Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x07덱._1021_회전하는큐Kt" />
+  <component name="RunManager" selected="Kotlin._4179_불Kt">
+    <configuration name="_1260_DFS와BFSKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x09BFS._1260_DFS와BFSKt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10845_큐Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x06큐._10845_큐Kt" />
+    <configuration name="_1926_그림Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x09BFS._1926_그림Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10866_덱Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x07덱._10866_덱Kt" />
+    <configuration name="_2178_미로탐색Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x09BFS._2178_미로탐색Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_18258_큐2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x06큐._18258_큐2Kt" />
+    <configuration name="_4179_불Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x09BFS._4179_불Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2164_카드2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="0x06큐._2164_카드2Kt" />
+    <configuration name="_7576_토마토Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="0x09BFS._7576_토마토Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._1021_회전하는큐Kt" />
-        <item itemvalue="Kotlin._10866_덱Kt" />
-        <item itemvalue="Kotlin._2164_카드2Kt" />
-        <item itemvalue="Kotlin._18258_큐2Kt" />
-        <item itemvalue="Kotlin._10845_큐Kt (1)" />
+        <item itemvalue="Kotlin._4179_불Kt" />
+        <item itemvalue="Kotlin._7576_토마토Kt" />
+        <item itemvalue="Kotlin._2178_미로탐색Kt" />
+        <item itemvalue="Kotlin._1926_그림Kt" />
+        <item itemvalue="Kotlin._1260_DFS와BFSKt" />
       </list>
     </recent_temporary>
   </component>
