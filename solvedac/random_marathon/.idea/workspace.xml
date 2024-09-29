@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week17/10174_팰린드롬.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week17/27982_큐브더미.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week17/16205_변수명.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week16/28239_배고파.kt" beforeDir="false" afterPath="$PROJECT_DIR$/week16/28239_배고파.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week16/31925_APC2shake.kt" beforeDir="false" afterPath="$PROJECT_DIR$/week16/31925_APC2shake.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
     "Kotlin._10471_공간을만들어봅시다Kt.executor": "Run",
     "Kotlin._11179_2진수뒤집기Kt.executor": "Run",
     "Kotlin._14581_팬들에게둘러싸인홍준Kt.executor": "Run",
+    "Kotlin._16205_변수명Kt.executor": "Run",
     "Kotlin._2154_수이어쓰기3Kt.executor": "Run",
     "Kotlin._24174_힙정렬2Kt.executor": "Run",
     "Kotlin._24883_자동완성Kt.executor": "Run",
@@ -70,9 +71,16 @@
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._27982_큐브더미Kt">
+  <component name="RunManager" selected="Kotlin._16205_변수명Kt">
     <configuration name="_10174_팰린드롬Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week17._10174_팰린드롬Kt" />
+      <module name="random_marathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_16205_변수명Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week17._16205_변수명Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._16205_변수명Kt" />
         <item itemvalue="Kotlin._27982_큐브더미Kt" />
         <item itemvalue="Kotlin._10174_팰린드롬Kt" />
         <item itemvalue="Kotlin._31925_APC2shakeKt" />
