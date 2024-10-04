@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week17/12927_배수스위치.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week18/17283_IamGroot.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_16205_변수명Kt$case2$s$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_16205_변수명Kt$case2$s$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_16205_변수명Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_16205_변수명Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_12927_배수스위치Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_12927_배수스위치Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +43,12 @@
     "Kotlin._11179_2진수뒤집기Kt.executor": "Run",
     "Kotlin._12927_배수스위치Kt.executor": "Run",
     "Kotlin._14581_팬들에게둘러싸인홍준Kt.executor": "Run",
+    "Kotlin._15036_JustAMinimKt.executor": "Run",
     "Kotlin._16205_변수명Kt.executor": "Run",
+    "Kotlin._17283_IamGrootKt.executor": "Run",
     "Kotlin._2154_수이어쓰기3Kt.executor": "Run",
     "Kotlin._22951_송이의카드게임Kt.executor": "Run",
+    "Kotlin._23739_벼락치기Kt.executor": "Run",
     "Kotlin._24039_2021은무엇이특별할까Kt.executor": "Run",
     "Kotlin._24174_힙정렬2Kt.executor": "Run",
     "Kotlin._24883_자동완성Kt.executor": "Run",
@@ -59,12 +61,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week17",
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week18",
     "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week18" />
       <recent name="$PROJECT_DIR$/week17" />
       <recent name="$PROJECT_DIR$/week16" />
       <recent name="$PROJECT_DIR$/week15" />
@@ -73,7 +76,7 @@
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._12927_배수스위치Kt">
+  <component name="RunManager" selected="Kotlin._17283_IamGrootKt">
     <configuration name="_12927_배수스위치Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week17._12927_배수스위치Kt" />
       <module name="random_marathon" />
@@ -81,8 +84,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_16205_변수명Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week17._16205_변수명Kt" />
+    <configuration name="_15036_JustAMinimKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week18._15036_JustAMinimKt" />
+      <module name="random_marathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_17283_IamGrootKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week18._17283_IamGrootKt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,15 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_24039_2021은무엇이특별할까Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week17._24039_2021은무엇이특별할까Kt" />
-      <module name="random_marathon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_27982_큐브더미Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week17._27982_큐브더미Kt" />
+    <configuration name="_23739_벼락치기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week18._23739_벼락치기Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._17283_IamGrootKt" />
+        <item itemvalue="Kotlin._23739_벼락치기Kt" />
+        <item itemvalue="Kotlin._15036_JustAMinimKt" />
         <item itemvalue="Kotlin._12927_배수스위치Kt" />
         <item itemvalue="Kotlin._22951_송이의카드게임Kt" />
-        <item itemvalue="Kotlin._24039_2021은무엇이특별할까Kt" />
-        <item itemvalue="Kotlin._16205_변수명Kt" />
-        <item itemvalue="Kotlin._27982_큐브더미Kt" />
       </list>
     </recent_temporary>
   </component>
