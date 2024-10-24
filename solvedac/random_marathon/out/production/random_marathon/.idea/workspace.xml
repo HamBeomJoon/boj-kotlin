@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week21/11970_FencePainting.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week19/_16408_PokerHandKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week19/_16408_PokerHandKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week20/_13333_Q인덱스Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week20/_13333_Q인덱스Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
     &quot;Kotlin._24174_힙정렬2Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._24883_자동완성Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._25966_배찬우는배열을좋아해Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._26307_CorrectKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._27982_큐브더미Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._28239_배고파Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._28682_재우야임관하자Kt.executor&quot;: &quot;Run&quot;,
@@ -86,23 +87,30 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week21&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week21" />
       <recent name="$PROJECT_DIR$/week20" />
       <recent name="$PROJECT_DIR$/week19" />
       <recent name="$PROJECT_DIR$/week18" />
       <recent name="$PROJECT_DIR$/week17" />
-      <recent name="$PROJECT_DIR$/week16" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._26307_CorrectKt">
+  <component name="RunManager" selected="Kotlin._11970_FencePaintingKt">
+    <configuration name="_11970_FencePaintingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week21._11970_FencePaintingKt" />
+      <module name="random_marathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_13333_Q인덱스Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week20._13333_Q인덱스Kt" />
       <module name="random_marathon" />
@@ -124,13 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_32498_CallforProblemsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week20._32498_CallforProblemsKt" />
-      <module name="random_marathon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_9949_HideThoseLettersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week20._9949_HideThoseLettersKt" />
       <module name="random_marathon" />
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._11970_FencePaintingKt" />
         <item itemvalue="Kotlin._26307_CorrectKt" />
         <item itemvalue="Kotlin._13333_Q인덱스Kt" />
         <item itemvalue="Kotlin._9949_HideThoseLettersKt" />
         <item itemvalue="Kotlin._20877_XmarkstheSpotKt" />
-        <item itemvalue="Kotlin._32498_CallforProblemsKt" />
       </list>
     </recent_temporary>
   </component>
