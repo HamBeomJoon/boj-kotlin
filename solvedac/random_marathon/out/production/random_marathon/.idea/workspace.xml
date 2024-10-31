@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week21/11970_FencePainting.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week22/17009_WinningScore.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week19/_16408_PokerHandKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week19/_16408_PokerHandKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week20/_13333_Q인덱스Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week20/_13333_Q인덱스Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week21/_11970_FencePaintingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week21/_11970_FencePaintingKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week21/_18311_왕복Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week21/_18311_왕복Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +60,21 @@
     &quot;Kotlin._11179_2진수뒤집기Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._11332_시간초과Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._11942_고려대는사랑입니다Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11970_FencePaintingKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._12927_배수스위치Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._13238_BitcoinInvestKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._13333_Q인덱스Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._13717_포켓몬GOKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1373_2진수8진수Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._14545_SquareKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._14581_팬들에게둘러싸인홍준Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._15036_JustAMinimKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._15719_중복된숫자Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._16205_변수명Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._16239_NadanKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._16408_PokerHandKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._17283_IamGrootKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._18311_왕복Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._20877_XmarkstheSpotKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._2154_수이어쓰기3Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._22951_송이의카드게임Kt.executor&quot;: &quot;Run&quot;,
@@ -75,9 +84,11 @@
     &quot;Kotlin._24883_자동완성Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._25966_배찬우는배열을좋아해Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._26307_CorrectKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._27708_AntiSortKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._27982_큐브더미Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._28239_배고파Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._28682_재우야임관하자Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._30087_진흥원세미나Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._31780_불사조Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._31925_APC2shakeKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._32498_CallforProblemsKt.executor&quot;: &quot;Run&quot;,
@@ -87,53 +98,53 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week22&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week22" />
       <recent name="$PROJECT_DIR$/week21" />
       <recent name="$PROJECT_DIR$/week20" />
       <recent name="$PROJECT_DIR$/week19" />
       <recent name="$PROJECT_DIR$/week18" />
-      <recent name="$PROJECT_DIR$/week17" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._11970_FencePaintingKt">
-    <configuration name="_11970_FencePaintingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week21._11970_FencePaintingKt" />
+  <component name="RunManager" selected="Kotlin._17009_WinningScoreKt">
+    <configuration name="_13717_포켓몬GOKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week21._13717_포켓몬GOKt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13333_Q인덱스Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week20._13333_Q인덱스Kt" />
+    <configuration name="_17009_WinningScoreKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week22._17009_WinningScoreKt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_20877_XmarkstheSpotKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week20._20877_XmarkstheSpotKt" />
+    <configuration name="_18311_왕복Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week21._18311_왕복Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_26307_CorrectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week21._26307_CorrectKt" />
+    <configuration name="_27708_AntiSortKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week21._27708_AntiSortKt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9949_HideThoseLettersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week20._9949_HideThoseLettersKt" />
+    <configuration name="_30087_진흥원세미나Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week22._30087_진흥원세미나Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._11970_FencePaintingKt" />
-        <item itemvalue="Kotlin._26307_CorrectKt" />
-        <item itemvalue="Kotlin._13333_Q인덱스Kt" />
-        <item itemvalue="Kotlin._9949_HideThoseLettersKt" />
-        <item itemvalue="Kotlin._20877_XmarkstheSpotKt" />
+        <item itemvalue="Kotlin._17009_WinningScoreKt" />
+        <item itemvalue="Kotlin._30087_진흥원세미나Kt" />
+        <item itemvalue="Kotlin._13717_포켓몬GOKt" />
+        <item itemvalue="Kotlin._18311_왕복Kt" />
+        <item itemvalue="Kotlin._27708_AntiSortKt" />
       </list>
     </recent_temporary>
   </component>
