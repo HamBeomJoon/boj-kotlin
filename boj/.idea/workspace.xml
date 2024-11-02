@@ -112,7 +112,7 @@
       <recent name="$PROJECT_DIR$/src/0x06큐" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._4796_캠핑Kt">
+  <component name="RunManager" selected="Kotlin._1357_뒤집힌덧셈Kt">
     <configuration name="_1032_명령프롬포트Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bronze._1032_명령프롬포트Kt" />
       <module name="boj" />
@@ -127,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1924_2007년Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._1924_2007년Kt" />
+    <configuration name="_1357_뒤집힌덧셈Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._1357_뒤집힌덧셈Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1357_뒤집힌덧셈Kt" />
         <item itemvalue="Kotlin._4796_캠핑Kt" />
         <item itemvalue="Kotlin._11655_ROT13Kt" />
         <item itemvalue="Kotlin._9093_단어_뒤집기Kt" />
         <item itemvalue="Kotlin._1032_명령프롬포트Kt" />
-        <item itemvalue="Kotlin._1924_2007년Kt" />
       </list>
     </recent_temporary>
   </component>
