@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week22/17009_WinningScore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week22/30875_RecoveringTheRegion.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
@@ -90,10 +90,12 @@
     "Kotlin._28239_배고파Kt.executor": "Run",
     "Kotlin._28682_재우야임관하자Kt.executor": "Run",
     "Kotlin._30087_진흥원세미나Kt.executor": "Run",
+    "Kotlin._30875_RecoveringTheRegionKt.executor": "Run",
     "Kotlin._31780_불사조Kt.executor": "Run",
     "Kotlin._31925_APC2shakeKt.executor": "Run",
     "Kotlin._32498_CallforProblemsKt.executor": "Run",
     "Kotlin._3566_대형스크린Kt.executor": "Run",
+    "Kotlin._4072_WordsKt.executor": "Run",
     "Kotlin._9287_JengaKt.executor": "Run",
     "Kotlin._9949_HideThoseLettersKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -115,7 +117,7 @@
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._17009_WinningScoreKt">
+  <component name="RunManager" selected="Kotlin._30875_RecoveringTheRegionKt">
     <configuration name="_13717_포켓몬GOKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week21._13717_포켓몬GOKt" />
       <module name="random_marathon" />
@@ -130,20 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_18311_왕복Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week21._18311_왕복Kt" />
-      <module name="random_marathon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_27708_AntiSortKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week21._27708_AntiSortKt" />
-      <module name="random_marathon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_30087_진흥원세미나Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week22._30087_진흥원세미나Kt" />
       <module name="random_marathon" />
@@ -151,13 +139,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_30875_RecoveringTheRegionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week22._30875_RecoveringTheRegionKt" />
+      <module name="random_marathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4072_WordsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week22._4072_WordsKt" />
+      <module name="random_marathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._30875_RecoveringTheRegionKt" />
+        <item itemvalue="Kotlin._4072_WordsKt" />
         <item itemvalue="Kotlin._17009_WinningScoreKt" />
         <item itemvalue="Kotlin._30087_진흥원세미나Kt" />
         <item itemvalue="Kotlin._13717_포켓몬GOKt" />
-        <item itemvalue="Kotlin._18311_왕복Kt" />
-        <item itemvalue="Kotlin._27708_AntiSortKt" />
       </list>
     </recent_temporary>
   </component>
