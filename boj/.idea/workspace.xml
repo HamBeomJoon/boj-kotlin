@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../solvedac/random_marathon/week24/10105_AssigningPartners.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week19/_16408_PokerHandKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week19/_16408_PokerHandKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week20/_13333_Q인덱스Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week20/_13333_Q인덱스Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week21/_11970_FencePaintingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week21/_11970_FencePaintingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week21/_18311_왕복Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week21/_18311_왕복Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week22/_30875_RecoveringTheRegionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week22/_30875_RecoveringTheRegionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_15739_매직스퀘어Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_15739_매직스퀘어Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_9654_내부함대데이터Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_9654_내부함대데이터Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,15 +67,20 @@
     "Kotlin._10845_큐Kt.executor": "Run",
     "Kotlin._10866_덱Kt.executor": "Run",
     "Kotlin._10870_피보나치수5Kt.executor": "Run",
+    "Kotlin._1100_하얀칸Kt.executor": "Run",
     "Kotlin._1110_더하기_사이클Kt.executor": "Run",
     "Kotlin._11328_strfryKt.executor": "Run",
+    "Kotlin._1145_적어도대부분의배수Kt.executor": "Run",
     "Kotlin._1158_요세푸스문제Kt.executor": "Run",
     "Kotlin._11653_소인수분해Kt.executor": "Run",
     "Kotlin._11655_ROT13Kt.executor": "Run",
+    "Kotlin._11721_열개씩끊어출력하기Kt.executor": "Run",
     "Kotlin._1260_DFS와BFSKt.executor": "Run",
     "Kotlin._13300_방배정Kt.executor": "Run",
     "Kotlin._1357_뒤집힌덧셈Kt.executor": "Run",
     "Kotlin._1406_에디터Kt.executor": "Run",
+    "Kotlin._1453_피시방알바Kt.executor": "Run",
+    "Kotlin._1712_손익분기점Kt.executor": "Run",
     "Kotlin._18258_큐2Kt.executor": "Run",
     "Kotlin._1919_애너그램만들기Kt.executor": "Run",
     "Kotlin._1924_2007년Kt.executor": "Run",
@@ -98,6 +103,7 @@
     "Kotlin._9093_단어_뒤집기Kt.executor": "Run",
     "Kotlin._9610_사분면Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/bronze",
@@ -114,37 +120,37 @@
       <recent name="$PROJECT_DIR$/src/0x06큐" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._2851_슈퍼마리오Kt">
-    <configuration name="_11655_ROT13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._11655_ROT13Kt" />
+  <component name="RunManager" selected="Kotlin._1100_하얀칸Kt">
+    <configuration name="_1100_하얀칸Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._1100_하얀칸Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1357_뒤집힌덧셈Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._1357_뒤집힌덧셈Kt" />
+    <configuration name="_1145_적어도대부분의배수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._1145_적어도대부분의배수Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2851_슈퍼마리오Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._2851_슈퍼마리오Kt" />
+    <configuration name="_11721_열개씩끊어출력하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._11721_열개씩끊어출력하기Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4796_캠핑Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._4796_캠핑Kt" />
+    <configuration name="_1453_피시방알바Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._1453_피시방알바Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9093_단어_뒤집기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._9093_단어_뒤집기Kt" />
+    <configuration name="_1712_손익분기점Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._1712_손익분기점Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._2851_슈퍼마리오Kt" />
-        <item itemvalue="Kotlin._1357_뒤집힌덧셈Kt" />
-        <item itemvalue="Kotlin._4796_캠핑Kt" />
-        <item itemvalue="Kotlin._11655_ROT13Kt" />
-        <item itemvalue="Kotlin._9093_단어_뒤집기Kt" />
+        <item itemvalue="Kotlin._1100_하얀칸Kt" />
+        <item itemvalue="Kotlin._11721_열개씩끊어출력하기Kt" />
+        <item itemvalue="Kotlin._1145_적어도대부분의배수Kt" />
+        <item itemvalue="Kotlin._1712_손익분기점Kt" />
+        <item itemvalue="Kotlin._1453_피시방알바Kt" />
       </list>
     </recent_temporary>
   </component>
