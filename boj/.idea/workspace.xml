@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week17/_16205_변수명Kt$case2$s$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_11652_카드Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_11652_카드Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_12756_고급여관Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_12756_고급여관Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_15739_매직스퀘어Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_15739_매직스퀘어Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_9654_내부함대데이터Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week23/_9654_내부함대데이터Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week24/_23756_노브돌리기Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week24/_23756_노브돌리기Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week24/_4659_비밀번호발음하기Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week24/_4659_비밀번호발음하기Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week24/_7581_CuboidsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week24/_7581_CuboidsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week26/_5675_시침과분침Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week26/_5675_시침과분침Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week27/_22193_MultiplyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week27/_22193_MultiplyKt.class" afterDir="false" />
-    </list>
+    <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +78,9 @@
     "Kotlin._14645_와이버스_부릉부릉Kt.executor": "Run",
     "Kotlin._14928_큰수_BIG_Kt.executor": "Run",
     "Kotlin._15232_RectanglesKt.executor": "Run",
+    "Kotlin._15680_연세대학교Kt.executor": "Run",
     "Kotlin._15727_조별과제를하려는데Kt.executor": "Run",
+    "Kotlin._16430_제리와톰Kt.executor": "Run",
     "Kotlin._1712_손익분기점Kt.executor": "Run",
     "Kotlin._18258_큐2Kt.executor": "Run",
     "Kotlin._1919_애너그램만들기Kt.executor": "Run",
@@ -138,9 +129,9 @@
       <recent name="$PROJECT_DIR$/src/0x06큐" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._15727_조별과제를하려는데Kt">
-    <configuration name="_10170_NFC_West_vs_NorthKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._10170_NFC_West_vs_NorthKt" />
+  <component name="RunManager" selected="Kotlin._16430_제리와톰Kt">
+    <configuration name="_1357_뒤집힌덧셈Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._1357_뒤집힌덧셈Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_15232_RectanglesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._15232_RectanglesKt" />
+    <configuration name="_15680_연세대학교Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._15680_연세대학교Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -167,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_28927_КиноманыKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._28927_КиноманыKt" />
+    <configuration name="_16430_제리와톰Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._16430_제리와톰Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -176,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._16430_제리와톰Kt" />
+        <item itemvalue="Kotlin._1357_뒤집힌덧셈Kt" />
+        <item itemvalue="Kotlin._15680_연세대학교Kt" />
         <item itemvalue="Kotlin._15727_조별과제를하려는데Kt" />
         <item itemvalue="Kotlin._14645_와이버스_부릉부릉Kt" />
-        <item itemvalue="Kotlin._15232_RectanglesKt" />
-        <item itemvalue="Kotlin._28927_КиноманыKt" />
-        <item itemvalue="Kotlin._10170_NFC_West_vs_NorthKt" />
       </list>
     </recent_temporary>
   </component>
