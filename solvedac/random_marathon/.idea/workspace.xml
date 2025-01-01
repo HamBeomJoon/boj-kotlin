@@ -5,71 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week28/5101_Sequences.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week31/25311_UCPC에서가장쉬운문제번호.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/src/bronze/1100_하얀칸.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/src/bronze/1100_하얀칸.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/src/bronze/1357_뒤집힌덧셈.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/src/bronze/1357_뒤집힌덧셈.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week15/_10471_공간을만들어봅시다Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week15/_10471_공간을만들어봅시다Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week15/_11179_2진수뒤집기Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week15/_11179_2진수뒤집기Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week15/_24174_힙정렬2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week15/_24174_힙정렬2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week15/_24883_자동완성Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week15/_24883_자동완성Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week15/_28682_재우야임관하자Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week15/_28682_재우야임관하자Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week15/_31780_불사조Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week15/_31780_불사조Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week16/_14581_팬들에게둘러싸인홍준Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week16/_14581_팬들에게둘러싸인홍준Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week16/_2154_수이어쓰기3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week16/_2154_수이어쓰기3Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week16/_28239_배고파Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week16/_28239_배고파Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week16/_31925_APC2shakeKt$main$$inlined$sortedBy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week16/_31925_APC2shakeKt$main$$inlined$sortedBy$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week16/_31925_APC2shakeKt$main$$inlined$sortedBy$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week16/_31925_APC2shakeKt$main$$inlined$sortedBy$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week16/_31925_APC2shakeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week16/_31925_APC2shakeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week16/_3566_대형스크린Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week16/_3566_대형스크린Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_10174_팰린드롬Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_10174_팰린드롬Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_12927_배수스위치Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_12927_배수스위치Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_16205_변수명Kt$case2$s$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_16205_변수명Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_16205_변수명Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_22951_송이의카드게임Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_22951_송이의카드게임Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_24039_2021은무엇이특별할까Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_24039_2021은무엇이특별할까Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_27982_큐브더미Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_27982_큐브더미Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week17/_32025_체육은수학과목입니다Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week17/_32025_체육은수학과목입니다Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week18/_11332_시간초과Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week18/_11332_시간초과Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week18/_13238_BitcoinInvestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week18/_13238_BitcoinInvestKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week18/_15036_JustAMinimKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week18/_15036_JustAMinimKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week18/_17283_IamGrootKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week18/_17283_IamGrootKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week18/_23739_벼락치기Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week18/_23739_벼락치기Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week18/_25966_배찬우는배열을좋아해Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week18/_25966_배찬우는배열을좋아해Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week19/Etc1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week19/Etc1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week19/_11942_고려대는사랑입니다Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week19/_11942_고려대는사랑입니다Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week19/_14545_SquareKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week19/_14545_SquareKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week19/_15719_중복된숫자Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week19/_15719_중복된숫자Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week19/_16408_PokerHandKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week19/_16408_PokerHandKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week19/_9287_JengaKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week19/_9287_JengaKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week20/_13333_Q인덱스Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week20/_13333_Q인덱스Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week20/_20877_XmarkstheSpotKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week20/_20877_XmarkstheSpotKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week20/_32498_CallforProblemsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week20/_32498_CallforProblemsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week20/_9949_HideThoseLettersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week20/_9949_HideThoseLettersKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week21/_11970_FencePaintingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week21/_11970_FencePaintingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week21/_13717_포켓몬GOKt$main$$inlined$sortByDescending$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week21/_13717_포켓몬GOKt$main$$inlined$sortByDescending$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week21/_13717_포켓몬GOKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week21/_13717_포켓몬GOKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week21/_16239_NadanKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week21/_16239_NadanKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week21/_18311_왕복Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week21/_18311_왕복Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week21/_26307_CorrectKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week21/_26307_CorrectKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week21/_27708_AntiSortKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week21/_27708_AntiSortKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week22/_17009_WinningScoreKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week22/_17009_WinningScoreKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week22/_30087_진흥원세미나Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week22/_30087_진흥원세미나Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week22/_30875_RecoveringTheRegionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week22/_30875_RecoveringTheRegionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week22/_4072_WordsKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week22/_4072_WordsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week22/_4072_WordsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week23/_11652_카드Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week23/_11652_카드Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week23/_12756_고급여관Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week23/_12756_고급여관Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week23/_15739_매직스퀘어Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week23/_15739_매직스퀘어Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week23/_9654_내부함대데이터Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week23/_9654_내부함대데이터Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week24/_23756_노브돌리기Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week24/_23756_노브돌리기Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week24/_4659_비밀번호발음하기Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week24/_4659_비밀번호발음하기Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week24/_7581_CuboidsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week24/_7581_CuboidsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week26/_5675_시침과분침Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week26/_5675_시침과분침Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week27/_22193_MultiplyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week27/_22193_MultiplyKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/random_marathon/week30/_11880_개미Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/random_marathon/week30/_11880_개미Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +60,7 @@
     "Kotlin._11312_삼각무늬Kt.executor": "Run",
     "Kotlin._11332_시간초과Kt.executor": "Run",
     "Kotlin._11652_카드Kt.executor": "Run",
+    "Kotlin._11880_개미Kt.executor": "Run",
     "Kotlin._11942_고려대는사랑입니다Kt.executor": "Run",
     "Kotlin._11970_FencePaintingKt.executor": "Run",
     "Kotlin._12756_고급여관Kt.executor": "Run",
@@ -152,7 +95,9 @@
     "Kotlin._24883_자동완성Kt.executor": "Run",
     "Kotlin._24900_한별찍기Kt.executor": "Run",
     "Kotlin._25966_배찬우는배열을좋아해Kt.executor": "Run",
+    "Kotlin._26082_WARBOYKt.executor": "Run",
     "Kotlin._26307_CorrectKt.executor": "Run",
+    "Kotlin._2684_동전게임Kt.executor": "Run",
     "Kotlin._27588_RestaurantOpeningKt.executor": "Run",
     "Kotlin._27708_AntiSortKt.executor": "Run",
     "Kotlin._27982_큐브더미Kt.executor": "Run",
@@ -177,25 +122,25 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week28",
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week31",
     "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week31" />
+      <recent name="$PROJECT_DIR$/week30" />
       <recent name="$PROJECT_DIR$/week28" />
       <recent name="$PROJECT_DIR$/week27" />
       <recent name="$PROJECT_DIR$/week26" />
-      <recent name="$PROJECT_DIR$/week25" />
-      <recent name="$PROJECT_DIR$/week24" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._5101_SequencesKt">
-    <configuration name="_17897_PeaSoupAndPancakesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week27._17897_PeaSoupAndPancakesKt" />
+  <component name="RunManager" selected="Kotlin._2684_동전게임Kt">
+    <configuration name="_11880_개미Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week30._11880_개미Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -208,8 +153,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_22193_MultiplyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week27._22193_MultiplyKt" />
+    <configuration name="_26082_WARBOYKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week30._26082_WARBOYKt" />
+      <module name="random_marathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2684_동전게임Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week30._2684_동전게임Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,20 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_5675_시침과분침Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week26._5675_시침과분침Kt" />
-      <module name="random_marathon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._2684_동전게임Kt" />
+        <item itemvalue="Kotlin._11880_개미Kt" />
+        <item itemvalue="Kotlin._26082_WARBOYKt" />
         <item itemvalue="Kotlin._5101_SequencesKt" />
         <item itemvalue="Kotlin._18301_RatsKt" />
-        <item itemvalue="Kotlin._17897_PeaSoupAndPancakesKt" />
-        <item itemvalue="Kotlin._22193_MultiplyKt" />
-        <item itemvalue="Kotlin._5675_시침과분침Kt" />
       </list>
     </recent_temporary>
   </component>
