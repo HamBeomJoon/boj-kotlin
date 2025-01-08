@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week31/25311_UCPC에서가장쉬운문제번호.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/src/bronze/1100_하얀칸.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/src/bronze/1100_하얀칸.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/src/bronze/1357_뒤집힌덧셈.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/src/bronze/1357_뒤집힌덧셈.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -56,6 +55,7 @@
     &quot;Kotlin._10105_AssigningPartnersKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._10174_팰린드롬Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._10471_공간을만들어봅시다Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10865_친구친구Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._11179_2진수뒤집기Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._11312_삼각무늬Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._11332_시간초과Kt.executor&quot;: &quot;Run&quot;,
@@ -116,6 +116,7 @@
     &quot;Kotlin._5675_시침과분침Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._7581_CuboidsKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._9287_JengaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9455_박스Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._9654_내부함대데이터Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._9949_HideThoseLettersKt.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -138,7 +139,7 @@
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._10865_친구친구Kt">
+  <component name="RunManager" selected="Kotlin._32326_ConveyorBeltSushiKt">
     <configuration name="_10865_친구친구Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week31._10865_친구친구Kt" />
       <module name="random_marathon" />
@@ -153,13 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_26082_WARBOYKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week30._26082_WARBOYKt" />
-      <module name="random_marathon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_2684_동전게임Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week30._2684_동전게임Kt" />
       <module name="random_marathon" />
@@ -167,8 +161,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_5101_SequencesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week28._5101_SequencesKt" />
+    <configuration name="_32326_ConveyorBeltSushiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week32._32326_ConveyorBeltSushiKt" />
+      <module name="random_marathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_9455_박스Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week31._9455_박스Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._32326_ConveyorBeltSushiKt" />
+        <item itemvalue="Kotlin._9455_박스Kt" />
         <item itemvalue="Kotlin._10865_친구친구Kt" />
         <item itemvalue="Kotlin._2684_동전게임Kt" />
         <item itemvalue="Kotlin._11880_개미Kt" />
-        <item itemvalue="Kotlin._26082_WARBOYKt" />
-        <item itemvalue="Kotlin._5101_SequencesKt" />
       </list>
     </recent_temporary>
   </component>

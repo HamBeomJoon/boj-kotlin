@@ -48,84 +48,85 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.AaaKt.executor": "Run",
-    "Kotlin.Etc1Kt.executor": "Run",
-    "Kotlin._10105_AssigningPartnersKt.executor": "Run",
-    "Kotlin._10174_팰린드롬Kt.executor": "Run",
-    "Kotlin._10471_공간을만들어봅시다Kt.executor": "Run",
-    "Kotlin._10865_친구친구Kt.executor": "Run",
-    "Kotlin._11179_2진수뒤집기Kt.executor": "Run",
-    "Kotlin._11312_삼각무늬Kt.executor": "Run",
-    "Kotlin._11332_시간초과Kt.executor": "Run",
-    "Kotlin._11652_카드Kt.executor": "Run",
-    "Kotlin._11880_개미Kt.executor": "Run",
-    "Kotlin._11942_고려대는사랑입니다Kt.executor": "Run",
-    "Kotlin._11970_FencePaintingKt.executor": "Run",
-    "Kotlin._12756_고급여관Kt.executor": "Run",
-    "Kotlin._12927_배수스위치Kt.executor": "Run",
-    "Kotlin._13238_BitcoinInvestKt.executor": "Run",
-    "Kotlin._13333_Q인덱스Kt.executor": "Run",
-    "Kotlin._13717_포켓몬GOKt.executor": "Run",
-    "Kotlin._1373_2진수8진수Kt.executor": "Run",
-    "Kotlin._14545_SquareKt.executor": "Run",
-    "Kotlin._14568_2017연세대학교프로그래밍Kt.executor": "Run",
-    "Kotlin._14581_팬들에게둘러싸인홍준Kt.executor": "Run",
-    "Kotlin._15036_JustAMinimKt.executor": "Run",
-    "Kotlin._15719_중복된숫자Kt.executor": "Run",
-    "Kotlin._15739_매직스퀘어Kt.executor": "Run",
-    "Kotlin._16205_변수명Kt.executor": "Run",
-    "Kotlin._16239_NadanKt.executor": "Run",
-    "Kotlin._16408_PokerHandKt.executor": "Run",
-    "Kotlin._17009_WinningScoreKt.executor": "Run",
-    "Kotlin._17011_ColdCompressKt.executor": "Run",
-    "Kotlin._17283_IamGrootKt.executor": "Run",
-    "Kotlin._17897_PeaSoupAndPancakesKt.executor": "Run",
-    "Kotlin._18301_RatsKt.executor": "Run",
-    "Kotlin._18311_왕복Kt.executor": "Run",
-    "Kotlin._20877_XmarkstheSpotKt.executor": "Run",
-    "Kotlin._2154_수이어쓰기3Kt.executor": "Run",
-    "Kotlin._22193_MultiplyKt.executor": "Run",
-    "Kotlin._22951_송이의카드게임Kt.executor": "Run",
-    "Kotlin._23739_벼락치기Kt.executor": "Run",
-    "Kotlin._23756_노브돌리기Kt.executor": "Run",
-    "Kotlin._24039_2021은무엇이특별할까Kt.executor": "Run",
-    "Kotlin._24174_힙정렬2Kt.executor": "Run",
-    "Kotlin._24883_자동완성Kt.executor": "Run",
-    "Kotlin._24900_한별찍기Kt.executor": "Run",
-    "Kotlin._25966_배찬우는배열을좋아해Kt.executor": "Run",
-    "Kotlin._26082_WARBOYKt.executor": "Run",
-    "Kotlin._26307_CorrectKt.executor": "Run",
-    "Kotlin._2684_동전게임Kt.executor": "Run",
-    "Kotlin._27588_RestaurantOpeningKt.executor": "Run",
-    "Kotlin._27708_AntiSortKt.executor": "Run",
-    "Kotlin._27982_큐브더미Kt.executor": "Run",
-    "Kotlin._2810_컵홀더Kt.executor": "Run",
-    "Kotlin._28239_배고파Kt.executor": "Run",
-    "Kotlin._28682_재우야임관하자Kt.executor": "Run",
-    "Kotlin._30087_진흥원세미나Kt.executor": "Run",
-    "Kotlin._30875_RecoveringTheRegionKt.executor": "Run",
-    "Kotlin._31780_불사조Kt.executor": "Run",
-    "Kotlin._31925_APC2shakeKt.executor": "Run",
-    "Kotlin._32498_CallforProblemsKt.executor": "Run",
-    "Kotlin._3566_대형스크린Kt.executor": "Run",
-    "Kotlin._4072_WordsKt.executor": "Run",
-    "Kotlin._4659_비밀번호발음하기Kt.executor": "Run",
-    "Kotlin._5101_SequencesKt.executor": "Run",
-    "Kotlin._5675_시침과분침Kt.executor": "Run",
-    "Kotlin._7581_CuboidsKt.executor": "Run",
-    "Kotlin._9287_JengaKt.executor": "Run",
-    "Kotlin._9654_내부함대데이터Kt.executor": "Run",
-    "Kotlin._9949_HideThoseLettersKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week31",
-    "settings.editor.selected.configurable": "preferences.sourceCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.AaaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Etc1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10105_AssigningPartnersKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10174_팰린드롬Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10471_공간을만들어봅시다Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10865_친구친구Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11179_2진수뒤집기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11312_삼각무늬Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11332_시간초과Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11652_카드Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11880_개미Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11942_고려대는사랑입니다Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11970_FencePaintingKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._12756_고급여관Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._12927_배수스위치Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._13238_BitcoinInvestKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._13333_Q인덱스Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._13717_포켓몬GOKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1373_2진수8진수Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._14545_SquareKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._14568_2017연세대학교프로그래밍Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._14581_팬들에게둘러싸인홍준Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._15036_JustAMinimKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._15719_중복된숫자Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._15739_매직스퀘어Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._16205_변수명Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._16239_NadanKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._16408_PokerHandKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._17009_WinningScoreKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._17011_ColdCompressKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._17283_IamGrootKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._17897_PeaSoupAndPancakesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._18301_RatsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._18311_왕복Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._20877_XmarkstheSpotKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2154_수이어쓰기3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._22193_MultiplyKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._22951_송이의카드게임Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._23739_벼락치기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._23756_노브돌리기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._24039_2021은무엇이특별할까Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._24174_힙정렬2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._24883_자동완성Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._24900_한별찍기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._25966_배찬우는배열을좋아해Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._26082_WARBOYKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._26307_CorrectKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2684_동전게임Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._27588_RestaurantOpeningKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._27708_AntiSortKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._27982_큐브더미Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2810_컵홀더Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._28239_배고파Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._28682_재우야임관하자Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._30087_진흥원세미나Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._30875_RecoveringTheRegionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._31780_불사조Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._31925_APC2shakeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._32498_CallforProblemsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._3566_대형스크린Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4072_WordsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4659_비밀번호발음하기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5101_SequencesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5675_시침과분침Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._7581_CuboidsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9287_JengaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9455_박스Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9654_내부함대데이터Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9949_HideThoseLettersKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week31&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week31" />
@@ -138,7 +139,7 @@
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._10865_친구친구Kt">
+  <component name="RunManager" selected="Kotlin._32326_ConveyorBeltSushiKt">
     <configuration name="_10865_친구친구Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week31._10865_친구친구Kt" />
       <module name="random_marathon" />
@@ -153,13 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_26082_WARBOYKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week30._26082_WARBOYKt" />
-      <module name="random_marathon" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_2684_동전게임Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week30._2684_동전게임Kt" />
       <module name="random_marathon" />
@@ -167,8 +161,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_5101_SequencesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week28._5101_SequencesKt" />
+    <configuration name="_32326_ConveyorBeltSushiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week32._32326_ConveyorBeltSushiKt" />
+      <module name="random_marathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_9455_박스Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week31._9455_박스Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._32326_ConveyorBeltSushiKt" />
+        <item itemvalue="Kotlin._9455_박스Kt" />
         <item itemvalue="Kotlin._10865_친구친구Kt" />
         <item itemvalue="Kotlin._2684_동전게임Kt" />
         <item itemvalue="Kotlin._11880_개미Kt" />
-        <item itemvalue="Kotlin._26082_WARBOYKt" />
-        <item itemvalue="Kotlin._5101_SequencesKt" />
       </list>
     </recent_temporary>
   </component>
