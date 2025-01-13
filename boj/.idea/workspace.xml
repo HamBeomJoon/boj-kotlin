@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../solvedac/random_marathon/week32/17389_보너스점수.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week30/_11880_개미Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week30/_11880_개미Kt.class" afterDir="false" />
     </list>
@@ -106,6 +103,7 @@
     "Kotlin._27889_특별한학교이름Kt.executor": "Run",
     "Kotlin._2851_슈퍼마리오Kt.executor": "Run",
     "Kotlin._28927_КиноманыKt.executor": "Run",
+    "Kotlin._30030_스위트콘가격구하기Kt.executor": "Run",
     "Kotlin._31403_A_B_CKt.executor": "Run",
     "Kotlin._32458_JustRoundDownKt.executor": "Run",
     "Kotlin._3273_두수의합Kt.executor": "Run",
@@ -140,7 +138,7 @@
       <recent name="$PROJECT_DIR$/src/0x06큐" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._27294_몇개고Kt">
+  <component name="RunManager" selected="Kotlin._30030_스위트콘가격구하기Kt">
     <configuration name="_20492_세금Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bronze._20492_세금Kt" />
       <module name="boj" />
@@ -169,8 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_31403_A_B_CKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze._31403_A_B_CKt" />
+    <configuration name="_30030_스위트콘가격구하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze._30030_스위트콘가격구하기Kt" />
       <module name="boj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -178,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._30030_스위트콘가격구하기Kt" />
         <item itemvalue="Kotlin._27294_몇개고Kt" />
         <item itemvalue="Kotlin._27889_특별한학교이름Kt" />
         <item itemvalue="Kotlin._20492_세금Kt" />
         <item itemvalue="Kotlin._21300_BottleReturnKt" />
-        <item itemvalue="Kotlin._31403_A_B_CKt" />
       </list>
     </recent_temporary>
   </component>
