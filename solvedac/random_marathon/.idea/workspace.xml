@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week32/17389_보너스점수.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/src/bronze/1100_하얀칸.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/src/bronze/1100_하얀칸.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/src/bronze/1357_뒤집힌덧셈.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/src/bronze/1357_뒤집힌덧셈.kt" afterDir="false" />
@@ -56,6 +55,7 @@
     "Kotlin.Etc1Kt.executor": "Run",
     "Kotlin._10105_AssigningPartnersKt.executor": "Run",
     "Kotlin._10174_팰린드롬Kt.executor": "Run",
+    "Kotlin._10180_ShipSelectionKt.executor": "Run",
     "Kotlin._10471_공간을만들어봅시다Kt.executor": "Run",
     "Kotlin._10865_친구친구Kt.executor": "Run",
     "Kotlin._11179_2진수뒤집기Kt.executor": "Run",
@@ -109,6 +109,7 @@
     "Kotlin._28682_재우야임관하자Kt.executor": "Run",
     "Kotlin._30087_진흥원세미나Kt.executor": "Run",
     "Kotlin._30875_RecoveringTheRegionKt.executor": "Run",
+    "Kotlin._31009_진주로가자Kt.executor": "Run",
     "Kotlin._31780_불사조Kt.executor": "Run",
     "Kotlin._31925_APC2shakeKt.executor": "Run",
     "Kotlin._32326_ConveyorBeltSushiKt.executor": "Run",
@@ -127,25 +128,25 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week32",
+    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week33",
     "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week33" />
       <recent name="$PROJECT_DIR$/week32" />
       <recent name="$PROJECT_DIR$/week31" />
       <recent name="$PROJECT_DIR$/week30" />
       <recent name="$PROJECT_DIR$/week28" />
-      <recent name="$PROJECT_DIR$/week27" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._17389_보너스점수Kt">
-    <configuration name="_10865_친구친구Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week31._10865_친구친구Kt" />
+  <component name="RunManager" selected="Kotlin._10180_ShipSelectionKt">
+    <configuration name="_10180_ShipSelectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week33._10180_ShipSelectionKt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,8 +159,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2684_동전게임Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week30._2684_동전게임Kt" />
+    <configuration name="_31009_진주로가자Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week33._31009_진주로가자Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -181,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._10180_ShipSelectionKt" />
+        <item itemvalue="Kotlin._31009_진주로가자Kt" />
         <item itemvalue="Kotlin._17389_보너스점수Kt" />
         <item itemvalue="Kotlin._32326_ConveyorBeltSushiKt" />
         <item itemvalue="Kotlin._9455_박스Kt" />
-        <item itemvalue="Kotlin._10865_친구친구Kt" />
-        <item itemvalue="Kotlin._2684_동전게임Kt" />
       </list>
     </recent_temporary>
   </component>
