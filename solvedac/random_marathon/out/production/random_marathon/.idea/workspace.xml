@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d22832c9-aff5-45a8-93c1-4a98af06c8e7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/week33/31009_진주로가자.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/src/bronze/1100_하얀칸.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/src/bronze/1100_하얀칸.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../boj/src/bronze/1357_뒤집힌덧셈.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../boj/src/bronze/1357_뒤집힌덧셈.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -56,6 +54,7 @@
     &quot;Kotlin.Etc1Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._10105_AssigningPartnersKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._10174_팰린드롬Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10180_ShipSelectionKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._10471_공간을만들어봅시다Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._10865_친구친구Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._11179_2진수뒤집기Kt.executor&quot;: &quot;Run&quot;,
@@ -71,6 +70,7 @@
     &quot;Kotlin._13333_Q인덱스Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._13717_포켓몬GOKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._1373_2진수8진수Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1434_책정리Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._14545_SquareKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._14568_2017연세대학교프로그래밍Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._14581_팬들에게둘러싸인홍준Kt.executor&quot;: &quot;Run&quot;,
@@ -85,6 +85,7 @@
     &quot;Kotlin._17283_IamGrootKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._17389_보너스점수Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._17897_PeaSoupAndPancakesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._18125_고양이사료Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._18301_RatsKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._18311_왕복Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._20877_XmarkstheSpotKt.executor&quot;: &quot;Run&quot;,
@@ -119,62 +120,64 @@
     &quot;Kotlin._4659_비밀번호발음하기Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._5101_SequencesKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._5675_시침과분침Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._6942_9966Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._7581_CuboidsKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._9287_JengaKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._9455_박스Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._9654_내부함대데이터Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9850_CipherKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin._9949_HideThoseLettersKt.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week33&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hambeomjoon/Documents/GitHub/boj-kotlin/solvedac/random_marathon/week34&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week34" />
       <recent name="$PROJECT_DIR$/week33" />
       <recent name="$PROJECT_DIR$/week32" />
       <recent name="$PROJECT_DIR$/week31" />
       <recent name="$PROJECT_DIR$/week30" />
-      <recent name="$PROJECT_DIR$/week28" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week15" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._10180_ShipSelectionKt">
-    <configuration name="_10180_ShipSelectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week33._10180_ShipSelectionKt" />
+  <component name="RunManager" selected="Kotlin._26209_InterceptingKt">
+    <configuration name="_1434_책정리Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week34._1434_책정리Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_17389_보너스점수Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week32._17389_보너스점수Kt" />
+    <configuration name="_18125_고양이사료Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week33._18125_고양이사료Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_31009_진주로가자Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week33._31009_진주로가자Kt" />
+    <configuration name="_26209_InterceptingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week35._26209_InterceptingKt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_32326_ConveyorBeltSushiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week32._32326_ConveyorBeltSushiKt" />
+    <configuration name="_6942_9966Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week33._6942_9966Kt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9455_박스Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week31._9455_박스Kt" />
+    <configuration name="_9850_CipherKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week34._9850_CipherKt" />
       <module name="random_marathon" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -182,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._10180_ShipSelectionKt" />
-        <item itemvalue="Kotlin._31009_진주로가자Kt" />
-        <item itemvalue="Kotlin._17389_보너스점수Kt" />
-        <item itemvalue="Kotlin._32326_ConveyorBeltSushiKt" />
-        <item itemvalue="Kotlin._9455_박스Kt" />
+        <item itemvalue="Kotlin._26209_InterceptingKt" />
+        <item itemvalue="Kotlin._1434_책정리Kt" />
+        <item itemvalue="Kotlin._9850_CipherKt" />
+        <item itemvalue="Kotlin._6942_9966Kt" />
+        <item itemvalue="Kotlin._18125_고양이사료Kt" />
       </list>
     </recent_temporary>
   </component>
