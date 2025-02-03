@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ed6096-2eed-499c-813e-a42e43b24628" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/META-INF/random_marathon.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/META-INF/random_marathon.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week30/_11880_개미Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../solvedac/random_marathon/out/production/random_marathon/week30/_11880_개미Kt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,88 +48,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.AaKt.executor": "Run",
-    "Kotlin.AsdasKt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "Kotlin._10170_NFC_West_vs_NorthKt.executor": "Run",
-    "Kotlin._10189_HOOKKt.executor": "Run",
-    "Kotlin._1021_회전하는큐Kt.executor": "Run",
-    "Kotlin._1032_명령프롬포트Kt.executor": "Run",
-    "Kotlin._10799_쇠막대기Kt.executor": "Run",
-    "Kotlin._10808_알파벳개수Kt.executor": "Run",
-    "Kotlin._10828_스택Kt.executor": "Run",
-    "Kotlin._10845_큐Kt (1).executor": "Run",
-    "Kotlin._10845_큐Kt.executor": "Run",
-    "Kotlin._10866_덱Kt.executor": "Run",
-    "Kotlin._10870_피보나치수5Kt.executor": "Run",
-    "Kotlin._1100_하얀칸Kt.executor": "Run",
-    "Kotlin._1110_더하기_사이클Kt.executor": "Run",
-    "Kotlin._11328_strfryKt.executor": "Run",
-    "Kotlin._1145_적어도대부분의배수Kt.executor": "Run",
-    "Kotlin._1158_요세푸스문제Kt.executor": "Run",
-    "Kotlin._11653_소인수분해Kt.executor": "Run",
-    "Kotlin._11655_ROT13Kt.executor": "Run",
-    "Kotlin._11721_열개씩끊어출력하기Kt.executor": "Run",
-    "Kotlin._1260_DFS와BFSKt.executor": "Run",
-    "Kotlin._13277_큰수곱셈Kt.executor": "Run",
-    "Kotlin._13300_방배정Kt.executor": "Run",
-    "Kotlin._1357_뒤집힌덧셈Kt.executor": "Run",
-    "Kotlin._1406_에디터Kt.executor": "Run",
-    "Kotlin._1453_피시방알바Kt.executor": "Run",
-    "Kotlin._14645_와이버스_부릉부릉Kt.executor": "Run",
-    "Kotlin._14928_큰수_BIG_Kt.executor": "Run",
-    "Kotlin._15232_RectanglesKt.executor": "Run",
-    "Kotlin._15680_연세대학교Kt.executor": "Run",
-    "Kotlin._15727_조별과제를하려는데Kt.executor": "Run",
-    "Kotlin._16430_제리와톰Kt.executor": "Run",
-    "Kotlin._1712_손익분기점Kt.executor": "Run",
-    "Kotlin._18258_큐2Kt.executor": "Run",
-    "Kotlin._1919_애너그램만들기Kt.executor": "Run",
-    "Kotlin._1924_2007년Kt.executor": "Run",
-    "Kotlin._1926_그림Kt.executor": "Run",
-    "Kotlin._1934_최소공배수Kt.executor": "Run",
-    "Kotlin._20492_세금Kt.executor": "Run",
-    "Kotlin._21300_BottleReturnKt.executor": "Run",
-    "Kotlin._2164_카드2Kt.executor": "Run",
-    "Kotlin._2178_미로탐색Kt.executor": "Run",
-    "Kotlin._24736_FootballScoringKt.executor": "Run",
-    "Kotlin._25372_상택이의은밀한비밀번호Kt.executor": "Run",
-    "Kotlin._2577_숫자의개수Kt.executor": "Run",
-    "Kotlin._2596_비밀편지Kt.executor": "Run",
-    "Kotlin._2675_문자열반복Kt.executor": "Run",
-    "Kotlin._27294_몇개고Kt.executor": "Run",
-    "Kotlin._27433_팩토리얼2Kt.executor": "Run",
-    "Kotlin._27889_특별한학교이름Kt.executor": "Run",
-    "Kotlin._2851_슈퍼마리오Kt.executor": "Run",
-    "Kotlin._28927_КиноманыKt.executor": "Run",
-    "Kotlin._30030_스위트콘가격구하기Kt.executor": "Run",
-    "Kotlin._31403_A_B_CKt.executor": "Run",
-    "Kotlin._32458_JustRoundDownKt.executor": "Run",
-    "Kotlin._3273_두수의합Kt.executor": "Run",
-    "Kotlin._4179_불Kt.executor": "Run",
-    "Kotlin._4796_캠핑Kt.executor": "Run",
-    "Kotlin._4949_균형잡힌세상Kt.executor": "Run",
-    "Kotlin._5341_PyramidsKt.executor": "Run",
-    "Kotlin._5397_키로거Kt.executor": "Run",
-    "Kotlin._5430_ACKt.executor": "Run",
-    "Kotlin._7567_그릇Kt.executor": "Run",
-    "Kotlin._7576_토마토Kt.executor": "Run",
-    "Kotlin._7891_CanYouAddItKt.executor": "Run",
-    "Kotlin._8370_PlaneKt.executor": "Run",
-    "Kotlin._8958_OX퀴즈Kt.executor": "Run",
-    "Kotlin._9093_단어_뒤집기Kt.executor": "Run",
-    "Kotlin._9610_사분면Kt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/bronze",
-    "onboarding.tips.debug.path": "/Users/hambeomjoon/IdeaProjects/boj/src/Main.kt",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.AaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AsdasKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10170_NFC_West_vs_NorthKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10189_HOOKKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1021_회전하는큐Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1032_명령프롬포트Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10799_쇠막대기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10808_알파벳개수Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10828_스택Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10845_큐Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10845_큐Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10866_덱Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._10870_피보나치수5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1100_하얀칸Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1110_더하기_사이클Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11328_strfryKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1145_적어도대부분의배수Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1158_요세푸스문제Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11653_소인수분해Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11655_ROT13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._11721_열개씩끊어출력하기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1260_DFS와BFSKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._13277_큰수곱셈Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._13300_방배정Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1357_뒤집힌덧셈Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1406_에디터Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1453_피시방알바Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._14645_와이버스_부릉부릉Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._14928_큰수_BIG_Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._15232_RectanglesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._15680_연세대학교Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._15727_조별과제를하려는데Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._16430_제리와톰Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1712_손익분기점Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._18258_큐2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1919_애너그램만들기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1924_2007년Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1926_그림Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1934_최소공배수Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._20492_세금Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._21300_BottleReturnKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2164_카드2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2178_미로탐색Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._24736_FootballScoringKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._25372_상택이의은밀한비밀번호Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2577_숫자의개수Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2596_비밀편지Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2675_문자열반복Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._27294_몇개고Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._27433_팩토리얼2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._27889_특별한학교이름Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2851_슈퍼마리오Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._28927_КиноманыKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._30030_스위트콘가격구하기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._31403_A_B_CKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._32458_JustRoundDownKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._3273_두수의합Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4179_불Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4796_캠핑Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4949_균형잡힌세상Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5341_PyramidsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5397_키로거Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._5430_ACKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._7567_그릇Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._7576_토마토Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._7891_CanYouAddItKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._8370_PlaneKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._8958_OX퀴즈Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9093_단어_뒤집기Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._9610_사분면Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hambeomjoon/Documents/GitHub/boj-kotlin/boj/src/bronze&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/hambeomjoon/IdeaProjects/boj/src/Main.kt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/bronze" />
@@ -139,7 +139,7 @@
       <recent name="$PROJECT_DIR$/src/0x06큐" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._24736_FootballScoringKt">
+  <component name="RunManager" selected="Kotlin._20492_세금Kt">
     <configuration name="_20492_세금Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bronze._20492_세금Kt" />
       <module name="boj" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._20492_세금Kt" />
         <item itemvalue="Kotlin._24736_FootballScoringKt" />
         <item itemvalue="Kotlin._30030_스위트콘가격구하기Kt" />
         <item itemvalue="Kotlin._27294_몇개고Kt" />
         <item itemvalue="Kotlin._27889_특별한학교이름Kt" />
-        <item itemvalue="Kotlin._20492_세금Kt" />
       </list>
     </recent_temporary>
   </component>
