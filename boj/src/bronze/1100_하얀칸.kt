@@ -5,16 +5,13 @@ import java.io.InputStreamReader
 
 fun main() {
     val br = BufferedReader(InputStreamReader(System.`in`))
-    var cnt = 0
+    val sb = StringBuilder()
 
-    for (i in 0..<8) {
-        val str = br.readLine()
-        for (j in 0..<8) {
-            if ((i + j) % 2 == 0 && str[j] == 'F') {
-                cnt++
-            }
-        }
+    while (true) {
+        val line = br.readLine() ?: break
+        val (n, s) = line.split(" ").map { it.toInt() }
+        sb.append(s / (n + 1)).append("\n")
     }
 
-    println(cnt)
+    print(sb)
 }
